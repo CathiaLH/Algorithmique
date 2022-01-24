@@ -1,3 +1,10 @@
+# Librairies
+library(rvest, quietly = T)
+library(tidyverse, quietly = T)
+library(corpus, quietly = T)
+library(microbenchmark, quietly = T)
+library(ggplot2, quietly = T)
+
 # NAIF
 
 ## Distance de Levenshtein
